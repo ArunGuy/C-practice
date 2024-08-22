@@ -1,0 +1,15 @@
+D:\งาน\CODE\C#\C-practice\C-practice\bin\Debug\net8.0\C-practice.exe
+D:\งาน\CODE\C#\C-practice\C-practice\bin\Debug\net8.0\C-practice.deps.json
+D:\งาน\CODE\C#\C-practice\C-practice\bin\Debug\net8.0\C-practice.runtimeconfig.json
+D:\งาน\CODE\C#\C-practice\C-practice\bin\Debug\net8.0\C-practice.dll
+D:\งาน\CODE\C#\C-practice\C-practice\bin\Debug\net8.0\C-practice.pdb
+D:\งาน\CODE\C#\C-practice\C-practice\obj\Debug\net8.0\C-practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\งาน\CODE\C#\C-practice\C-practice\obj\Debug\net8.0\C-practice.AssemblyInfoInputs.cache
+D:\งาน\CODE\C#\C-practice\C-practice\obj\Debug\net8.0\C-practice.AssemblyInfo.cs
+D:\งาน\CODE\C#\C-practice\C-practice\obj\Debug\net8.0\C-practice.csproj.CoreCompileInputs.cache
+D:\งาน\CODE\C#\C-practice\C-practice\obj\Debug\net8.0\C-practice.sourcelink.json
+D:\งาน\CODE\C#\C-practice\C-practice\obj\Debug\net8.0\C-practice.dll
+D:\งาน\CODE\C#\C-practice\C-practice\obj\Debug\net8.0\refint\C-practice.dll
+D:\งาน\CODE\C#\C-practice\C-practice\obj\Debug\net8.0\C-practice.pdb
+D:\งาน\CODE\C#\C-practice\C-practice\obj\Debug\net8.0\C-practice.genruntimeconfig.cache
+D:\งาน\CODE\C#\C-practice\C-practice\obj\Debug\net8.0\ref\C-practice.dll
